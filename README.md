@@ -4,4 +4,17 @@ the meteorological data and power generation data of one PV power station used i
 
 | column | kind of the data |
 |--|--|
+| 1 | time(28 denotes 7:00, 75 denotes 18:45) |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+| 7 |  |
+| 8 |  |
+| 9 |  |
+| 10 |  |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
