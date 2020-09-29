@@ -2,9 +2,10 @@
 
 There are the meteorological data and power generation data of one PV power station used in Ultra-short-term Forecasting of Photovoltaic Power via RBF Neural Network. 
 
-Meteorological data and power generation data are measured at 15-min intervals. 
+Meteorological data and power generation data of one PV power station in China from 2017 to 2018 are measured at 15-min intervals. 
 
-To simplify the experiment, the data at night and invalid data are excluded. 
+The data at night and invalid data are excluded. 
+
 Finally, more than 20,000 sets of data are obtained.
 
 Each column of the xls file denotes different type of data as the following table.
