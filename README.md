@@ -25,10 +25,10 @@ Each column of the processed_data.xls denotes different type of data as the foll
 | column | type of data |
 |--|--|
 | 1 | time(28 denotes 7:00, and 75 denotes 18:45, because night time data are excluded) |
-| 3 | wind speed |
-| 4 | wind direction |
-| 5 | ambient temperature |
-| 6 | pressure |
-| 7 | humidity |
-| 8 | solar irradience |
-| 9 | PV power output |
+| 2 | wind speed |
+| 3 | wind direction |
+| 4 | ambient temperature |
+| 5 | pressure |
+| 6 | humidity |
+| 7 | solar irradience |
+| 8 | PV power output |
