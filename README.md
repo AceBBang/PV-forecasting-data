@@ -13,7 +13,7 @@ Each column of the xls file denotes different type of data as the following tabl
 | column | type of data |
 |--|--|
 | 1 | time(28 denotes 7:00, and 75 denotes 18:45, because night time data are excluded) |
-| 2 | predicted solar irradience(invalid) |
+| 2 | solar irradience(invalid) |
 | 3 | wind speed |
 | 4 | wind direction |
 | 5 | ambient temperature |
