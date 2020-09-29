@@ -1,7 +1,9 @@
 # PV-forecasting-data
+
 There are the meteorological data and power generation data of one PV power station used in Ultra-short-term Forecasting of Photovoltaic Power via RBF Neural Network. 
 
-Each column of the xls file denotes different type of data as the follow table.
+Each column of the xls file denotes different type of data as the following table.
+
 | column | type of data |
 |--|--|
 | 1 | time(28 denotes 7:00, 75 denotes 18:45) |
