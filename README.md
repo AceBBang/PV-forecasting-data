@@ -9,16 +9,15 @@ Each column of the [raw_data.xls](https://github.com/AceBBang/PV-forecasting-dat
 | column | type of data |
 |--|--|
 | 1 | time |
-| 2 | solar irradience(invalid) |
-| 3 | wind speed |
-| 4 | wind direction |
-| 5 | ambient temperature |
-| 6 | pressure |
-| 7 | humidity |
-| 8 | solar irradience |
-| 9 | PV power output |
+| 2 | wind speed |
+| 3 | wind direction |
+| 4 | ambient temperature |
+| 5 | pressure |
+| 6 | humidity |
+| 7 | solar irradience |
+| 8 | PV power output |
 
-The data at night and invalid data are excluded in the processed_data.xls. After simple process, more than 20,000 sets of data are obtained.
+The data at night and invalid data are excluded in the processed_data.xls. The invalid data include some days with no change in solar irradience, PV power output, or other types of data. After simple process, more than 20,000 sets of data are obtained.
 
 Each column of the [processed_data.xls](https://github.com/AceBBang/PV-forecasting-data/blob/master/processed_data.xls) denotes different type of data as the following table.
 
